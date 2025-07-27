@@ -141,9 +141,6 @@ flutter build apk --release
 flutter build appbundle --release
 ```
 
-## 🎨 Captures d'Écran
-
-*Les captures d'écran seront ajoutées après les tests sur appareil*
 
 ## 🔍 Fonctionnalités Techniques
 
