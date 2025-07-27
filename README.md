@@ -60,7 +60,7 @@ lib/
 
 ### 1. Cloner le repository
 ```bash
-git clone <repository-url>
+git clone <https://github.com/DevOam/News-Reader-App>
 cd news_reader_app
 ```
 
